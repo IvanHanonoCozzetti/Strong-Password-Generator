@@ -6,6 +6,4 @@ This password generator allows you to create a random and very safe password tha
 - Type/s of Characters: All (upper/lower/nums/syms)
 - Number of passwords: 1
 
-→ The maximum number of characters that can be set with the current configuration is 103.
-→ By changing the upper, lower, nums and syms booleans to False, you can change the type of characters that will be used.
-→ There is no limit in the number of passwords that you can create (at least not a reasonable number, you can create 1 million passwords in between 8 to 15 minutes depending on your CPU/Memory usage and hardware).
+→ The maximum number of characters that can be set with the current configuration is 103.  → By changing the upper, lower, nums and syms booleans to False, you can change the type of characters that will be used.  → There is no limit in the number of passwords that you can create (at least not a reasonable number, you can create 1 million passwords in between 8 to 15 minutes depending on your CPU/Memory usage and hardware).
