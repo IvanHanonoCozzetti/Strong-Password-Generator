@@ -1,7 +1,7 @@
 ## Strong Password Generator
 This password generator allows you to create a random and very safe password that will include uppercase letters, lowercase letters, digits and a high range of symbols.
 
-<img src="pass.png">
+<img src="pass1.png">
 
 
 ### Default settings:
